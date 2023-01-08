@@ -1,0 +1,15 @@
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\ATMExample.csproj.AssemblyReference.cache
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\ATMExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\ATMExample.AssemblyInfoInputs.cache
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\ATMExample.AssemblyInfo.cs
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\ATMExample.csproj.CoreCompileInputs.cache
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\bin\Debug\net6.0\ATMExample.exe
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\bin\Debug\net6.0\ATMExample.deps.json
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\bin\Debug\net6.0\ATMExample.runtimeconfig.json
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\bin\Debug\net6.0\ATMExample.dll
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\bin\Debug\net6.0\ATMExample.pdb
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\ATMExample.dll
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\refint\ATMExample.dll
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\ATMExample.pdb
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\ATMExample.genruntimeconfig.cache
+C:\Users\tmdan\Desktop\.NET\ATMExample\ATMExample\obj\Debug\net6.0\ref\ATMExample.dll
